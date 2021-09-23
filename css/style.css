@@ -23,6 +23,9 @@
     background-color: #a6dcef;
 }
 
+footer p{
+    margin-bottom: 0;
+}
 /* responsive css */
 
 /* // X-Small devices (portrait phones, less than 576px)
