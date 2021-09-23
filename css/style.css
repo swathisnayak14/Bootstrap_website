@@ -16,7 +16,11 @@
 
 .services img{
     width:100%;
-    height: 100%    ;
+    height: 100%;
+}
+
+.offer_style{
+    background-color: #a6dcef;
 }
 
 /* responsive css */
